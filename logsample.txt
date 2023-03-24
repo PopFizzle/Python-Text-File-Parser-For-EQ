@@ -1,0 +1,32 @@
+[Mon Nov 19 18:55:36 2018] Logging to 'eqlog.txt' is now *ON*.
+[Mon Nov 19 18:55:43 2018] Players on EverQuest:
+[Mon Nov 19 18:55:43 2018] ---------------------------
+[Mon Nov 19 18:55:43 2018] [8 Necromancer] Zemyth (Iksar)
+[Mon Nov 19 18:55:43 2018] [4 Monk] Wreched (Iksar)
+[Mon Nov 19 18:55:43 2018] [11 Necromancer] Balia (Iksar)
+[Mon Nov 19 18:55:43 2018] [3 Necromancer] Fossill (Iksar)
+[Mon Nov 19 18:55:43 2018] [8 Necromancer] Donkoppopz (Iksar)
+[Mon Nov 19 18:55:43 2018] [35 Necromancer] Zedreil (Iksar)
+[Mon Nov 19 18:55:43 2018] [37 Shaman] Xassis (Iksar) LFG
+[Mon Nov 19 18:55:43 2018] [7 Monk] Middi (Iksar)
+[Mon Nov 19 18:55:43 2018] [10 Monk] Nupste (Iksar)
+[Mon Nov 19 18:55:43 2018] [5 Shaman] Sulabar (Iksar)
+[Mon Nov 19 18:55:43 2018] [8 Druid] Dendrobian (Halfling)
+[Mon Nov 19 18:55:43 2018] [5 Necromancer] Iksander (Iksar)
+[Mon Nov 19 18:55:43 2018] [16 Shaman] Gibley (Troll)
+[Mon Nov 19 18:55:43 2018] There are 13 players in The Field of Bone.
+[Mon Nov 19 18:55:45 2018] Your Location is 467.00, 994.00, 66.32
+[Mon Nov 19 22:52:34 2018] You think you are heading South.
+[Mon Nov 19 22:52:37 2018] It will take you about 30 seconds to prepare your camp.
+[Mon Nov 19 22:52:41 2018] You tell your party, 'have a good night'
+[Mon Nov 19 22:52:41 2018] It will take about 25 more seconds to prepare your camp.
+[Mon Nov 19 22:52:44 2018] Ilzizzizll begins to cast a spell.
+[Mon Nov 19 22:52:46 2018] It will take about 20 more seconds to prepare your camp.
+[Mon Nov 19 22:52:50 2018] Ilzizzizll begins to cast a spell.
+[Mon Nov 19 22:52:51 2018] It will take about 15 more seconds to prepare your camp.
+[Mon Nov 19 22:52:53 2018] Ilzizzizll beams a smile at a scaled wolf hunter
+[Mon Nov 19 22:52:56 2018] It will take about 10 more seconds to prepare your camp.
+[Mon Nov 19 22:52:59 2018] Ilzizzizll's spell fizzles!
+[Mon Nov 19 22:53:01 2018] Your Location is 467.00, 994.00, 66.32
+[Mon Nov 19 22:53:01 2018] Ilzizzizll begins to cast a spell.
+[Mon Nov 19 22:53:01 2018] It will take about 5 more seconds to prepare your camp.
